@@ -897,7 +897,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Search models, datasets, and Spaces, and call Space APIs.
 - [Hunchful](https://hunchful.io) `https://hunchful.io/mcp`
   [![Hunchful MCP connector](https://glama.ai/mcp/connectors/io.hunchful/hunchful/badges/score.svg)](https://glama.ai/mcp/connectors/io.hunchful/hunchful)
-  🔐 - Read and refine a person's falsifiable model of how they work best with AI, and find complementary collaborators.
+  🔐 - Your AI's inbox and people search: message friends, find people by how they work, knock with consent.
 - [Kika](https://getkika.app/mcp) `https://api.getkika.app/mcp`
   [![Kika MCP connector](https://glama.ai/mcp/connectors/io.github.usekika/kika/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.usekika/kika)
   🔐 - Shared memory for a client engagement: decisions with reasons, blockers, promises, and what was already tried.
